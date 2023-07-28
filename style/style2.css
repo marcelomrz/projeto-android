@@ -65,7 +65,7 @@ header{
     background-color: var(--cor4);
     min-height: 150px;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 60px;
     background-image: linear-gradient(to top,var(--cor5), rgba(82, 143, 81, 0.974));
 }
 
